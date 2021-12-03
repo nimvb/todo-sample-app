@@ -1,0 +1,15 @@
+[submodule "controller"]
+	path = controller
+	url = https://github.com/nimvb/todo-sample-app-controller.git
+[submodule "todo-spring-boot-autoconfigure"]
+	path = todo-spring-boot-autoconfigure
+	url = https://github.com/nimvb/todo-sample-app-autoconfigure.git
+[submodule "service"]
+	path = service
+	url = https://github.com/nimvb/todo-sample-app-service.git
+[submodule "repository"]
+	path = repository
+	url = https://github.com/nimvb/todo-sample-app-repository.git
+[submodule "database"]
+	path = database
+	url = https://github.com/nimvb/todo-sample-app-database.git
